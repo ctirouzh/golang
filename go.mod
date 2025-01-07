@@ -1,4 +1,4 @@
-module github.com/foldera/golang
+module github.com/ctioruzh/golang
 
 go 1.23.3
 
